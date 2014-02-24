@@ -1,3 +1,4 @@
-twitterClone
-============
-twitter Clone
+twitter-clone
+=============
+
+Twitter Clone
